@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-program that says hello world
+Hello. I am a beginner programer who is trying to learn java and eventually android developement.
